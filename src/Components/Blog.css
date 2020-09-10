@@ -1,0 +1,22 @@
+h1 {
+    background-color: lightskyblue;
+    color: purple;
+    padding: 20px;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.row {
+    padding: 20px;
+    margin: 20px;
+}
+
+#left-col {
+    background-color: orange;
+    min-height: 400px;
+}
+
+#right-col {
+    background-color: yellow;
+    min-height: 400px;
+}
